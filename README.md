@@ -81,7 +81,7 @@ A system-level Model-Based Design (MBD) digital twin of an autonomous rover, int
 
 A detailed engineering report covering the integration architecture, solver synchronization, array formatting for the Unreal Engine, and power-state transitions is available here:
 
-📄 [Guardian Mission — Full Technical Integration Report (PDF)](docs/Guardian_Mission_Final_Report.pdf) *(Upload your report to the docs folder and update this link)*
+📄 [Guardian Mission — Full Technical Integration Report (PDF)](docx/Guardian mission project Report .pdf) *(Upload your report to the docs folder and update this link)*
 
 ---
 
@@ -89,7 +89,7 @@ A detailed engineering report covering the integration architecture, solver sync
 
 *(Upload a screenshot of your final Simulink workspace plots or the 3D car driving to your docs folder and link it here)*
 
-![Simulation Output](docs/simulation_output.png) 
+![Simulation Output](docx/Output Car .png) 
 
 ---
 
